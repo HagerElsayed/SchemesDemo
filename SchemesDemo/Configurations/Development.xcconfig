@@ -1,0 +1,11 @@
+//
+//  Development.xcconfig
+//  SchemesDemo
+//
+//  Created by Hager Elsayed on 11/12/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+endpoint_url        = www.dev.com
